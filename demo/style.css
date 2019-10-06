@@ -1,0 +1,45 @@
+html,body{
+    font-family: "Sitka Heading";
+    color: #2b2b2b;
+    margin: 0;
+    padding: 0;
+}
+.Continer{
+    text-align: center;
+    width: 80%;
+    margin: 0 auto;
+}
+.Payment_Headers{
+    display: flex;
+    justify-content: center;
+    text-align: left;
+    flex: 0.7;
+}
+.Payment_Slot{
+    display: flex;
+    justify-content: center;
+    border: 1px;
+    border-style:  hidden hidden solid hidden;
+    border-color: #2b2b2b;
+    margin: 2em;
+    font-size: 1.2em;
+    text-align: left;
+    width:70%;
+}
+.Due_Date{
+    flex: 2;
+}
+.Title {
+    font-size: 1.5em;
+}
+.Amount{
+    flex: 1;
+}
+@media only screen and (min-width: 1352px) {
+    .Payment_Slot{
+        font-size: 1.5em;
+    }
+    .Title{
+        font-weight: 600;
+    }
+}

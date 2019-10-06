@@ -1,0 +1,15 @@
+Date,Transaction,Name,Memo,Amount
+8/12/2019,DEBIT,SomeStore,Something,-28
+8/13/2019,DEBIT,SomeStore,Something,-123
+9/14/2019,DEBIT,SomeStore,Something,-41
+9/14/2019,DEBIT,SomeStore,Something,-156
+9/14/2019,DEBIT,SomeStore,Something,-35
+9/14/2019,CREDIT,SomeStore,Something,763
+9/16/2019,DEBIT,SomeStore,Something,-121
+9/16/2019,CREDIT,SomeStore,Something,399
+9/19/2019,DEBIT,SomeStore,Something,-71
+9/19/2019,DEBIT,SomeStore,Something,-128
+9/19/2019,DEBIT,SomeStore,Something,-35
+9/20/2019,DEBIT,SomeStore,Something,-24
+9/20/2019,CREDIT,SomeStore,Something,27
+9/21/2019,DEBIT,SomeStore,Something,-159
